@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav ul li {
+    padding: 15px;
+}
+nav ul li a{
+    color: black !important;
+}
+#main{
+    /* border: 1px solid blac  k; */
+    background: white;
+    height: 130px;
+    width: 100%;
+}
+header{
+    height: 100vh;
+    width: 100%;
+    border: 1px solid black;
+    background-image: url(img/gallery3.png);
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+#text{
+    color: white;
+    height: 400px;
+    width: 600px;
+    /* border: 1px solid black; */
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+#text h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+#text p{
+    font-family: 'Playfair Display', serif;
+}
+#s1 h1{
+    font-family: 'Playfair Display', serif;
+}
+#s1{
+    text-align: center;
+}
+#s1 h3,h4{
+    font-family: 'Playfair Display', serif;
+}
+#s1 img{
+    width: 100%;
+    height: auto;
+}
+#sec2 h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+#sec2 img{
+    border-bottom: 3px solid red;
+}
+#sec2 h4{
+    font-weight: bold;
+}
+#sec3 h2{
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+}
+#sec4 i{
+    font-size: 30px;
+    color: white;
+}
+#sec4 {
+    color: white;
+}
+#m h1{
+    margin-top: -250px;
+    font-family: 'playfair Display',serif;
+}
+#m1 h1{
+    font-family: 'playfair Display',serif;
+    text-decoration: underline red 2px;
+}
+#m2 img{
+    width: 100%;
+    height: auto;
+}
+#m2 h2{
+    font-size: 40px;
+    font-family: 'playfair Display',serif;
+    color: darkslateblue;
+}
+#m2 b{
+    border: 1px solid darkslateblue;
+    padding: 5px;
+    font-size: 20px;
+}
+#m2 strong{
+    background: darkslateblue;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+#m3 ins{
+    color: grey;
+}
+#as{
+    height: 40px;
+    width: 200px;
+}
+#asd{
+    height: 40px;
+    width: 400px;
+}
